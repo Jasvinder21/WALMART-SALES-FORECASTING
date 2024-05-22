@@ -1,1 +1,2 @@
-# WALMART-SALES-FORECASTING
+# WALMART SALES FORECASTING📈
+![Uploading image.png…]()
